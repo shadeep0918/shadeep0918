@@ -9,18 +9,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 Hello! I'm **Isuru**, an **ICT Undergraduate** and a passionate software developer. I enjoy building functional applications and solving complex problems using data structures and modern web technologies.
 
-- 🎓 **Studying at University:** Pursuing a degree in Information and Communication Technology.
-- 🚀 **Current Focus:** Developing a Learning Management System (LMS) and exploring Full-stack development.
-- 💡 **Interests:** Low-level programming, UI/UX design, and Algorithm analysis.
-- 🎮 **Hobbies:** Playing Clash of Clans and active sports like Cricket and Volleyball.
+-  **Studying at University:** Pursuing a degree in Information and Communication Technology.
+-  **Current Focus:** Developing a Learning Management System (LMS) and exploring Full-stack development.
+-  **Interests:** Low-level programming, UI/UX design, and Algorithm analysis.
+-  **Hobbies:** Playing Clash of Clans and active sports like Cricket and Volleyball.
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -36,7 +36,7 @@ Hello! I'm **Isuru**, an **ICT Undergraduate** and a passionate software develop
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadeep0918&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
